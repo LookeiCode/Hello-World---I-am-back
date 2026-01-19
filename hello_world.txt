@@ -1,1 +1,3 @@
 Some text to test "git status" and adding/commiting things.
+
+Adding this new line to make a new commit to tes the new "git commit" without the flag in VScode.
