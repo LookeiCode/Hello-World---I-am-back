@@ -2,6 +2,9 @@ Some text to test "git status" and adding/commiting things.
 
 Adding this new line to make a new commit to tes the new "git commit" without the flag in VScode.
 
-Retrying ti again as I made a mistake. The mistake was after I wrote my message and clicked commit, I thought that was it.
+Retrying it again as I made a mistake. The mistake was after I wrote my message and clicked commit, I thought that was it.
 I had to ctrl+s and then close the tab in VSC for the commit to go through. The terminal was still waiting for me to save the commit 
 (even though it explicitly asked me in a pop up if I wanted to save which is odd) and thus when i did "git log" the commit did not appear.
+
+I did it right this time. It asked me to save in a popup because I didn't ctrl+s last time. This time I did and when I clicked commit 
+it didnt prompt me to save in a popup and instead closed the tab and commited as normal. "Git log" showed the commit as well. Good stuff!
